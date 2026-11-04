@@ -1,0 +1,4 @@
+EuroSAT_MS.zip
+MD5     091174add3c8e680a49244acf185b9f0   (matches Zenodo)
+SHA256  eb0cf47380b0ff0dba68726bcb9184f8b261efcbb818d3d2b00b557ab0835b33
+Verified: 2026-11-04
