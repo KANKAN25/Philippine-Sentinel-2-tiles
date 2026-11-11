@@ -1,0 +1,31 @@
+{
+  "seeds": [
+    3
+  ],
+  "epochs": 30,
+  "lr": 0.001,
+  "batch": 64,
+  "img_size": [
+    64,
+    64
+  ],
+  "classes": [
+    "AnnualCrop",
+    "Forest",
+    "HerbaceousVegetation",
+    "Highway",
+    "Industrial",
+    "Pasture",
+    "PermanentCrop",
+    "Residential",
+    "River",
+    "SeaLake"
+  ],
+  "split_csv": "data_card/splits.csv",
+  "data": "data",
+  "eval_split": "val",
+  "git_commit": "71c171793ed68efe6a06d8417df9b4d2e103e8e5",
+  "python": "3.13.16",
+  "tensorflow": "2.21.0",
+  "keras": "3.13.2"
+}
